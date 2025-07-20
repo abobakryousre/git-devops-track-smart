@@ -2,7 +2,7 @@ function test() {
   console.log("test");
 }
 function validate() {
-  console.log("validating...");
+  return "validate ...";
 }
 
 function sayMyName() {
