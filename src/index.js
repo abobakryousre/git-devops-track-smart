@@ -8,3 +8,7 @@ function validate() {
 function sayMyName() {
   console.log("my name is abobakr;");
 }
+
+function newFun() {
+  console.log("newFun");
+}
