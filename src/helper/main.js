@@ -1,3 +1,3 @@
 const myName = function (nam) {
-  console.log("myname");
+  console.log("abobakr");
 };
